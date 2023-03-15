@@ -1,0 +1,8 @@
+C:\Users\Master-Race\source\repos\HolaMundo\HolaMundo\bin\Release\HolaMundo.exe.config
+C:\Users\Master-Race\source\repos\HolaMundo\HolaMundo\bin\Release\HolaMundo.exe
+C:\Users\Master-Race\source\repos\HolaMundo\HolaMundo\bin\Release\HolaMundo.pdb
+C:\Users\Master-Race\source\repos\HolaMundo\HolaMundo\obj\Release\HolaMundo.csproj.AssemblyReference.cache
+C:\Users\Master-Race\source\repos\HolaMundo\HolaMundo\obj\Release\HolaMundo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Master-Race\source\repos\HolaMundo\HolaMundo\obj\Release\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\Master-Race\source\repos\HolaMundo\HolaMundo\obj\Release\HolaMundo.exe
+C:\Users\Master-Race\source\repos\HolaMundo\HolaMundo\obj\Release\HolaMundo.pdb
